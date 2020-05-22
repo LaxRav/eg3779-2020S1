@@ -10,7 +10,8 @@ var events = [
         end: {
             date: "28-03-2020",
             time: "12:00"
-        }
+        },
+        organizer: "Starhub"
     },
     {
         name:"Event 2",
@@ -23,7 +24,8 @@ var events = [
         end: {
             date: "15-04-2020",
             time: "18:00"
-        }
+        },
+        organizer: "Singtel"
     }
 ]
 var eventsController = {
